@@ -1,5 +1,5 @@
 ##################################################################################################
-Authors: Eweron Silva, Tiago Carvalho, Anselmo Ferreira and Anderson Rocha 
+Authors: Ewerton Silva, Tiago Carvalho, Anselmo Ferreira and Anderson Rocha 
 ##################################################################################################
 This is the source code related to the paper  'Going deeper into copy-move forgery detection: exploring image telltales via multi-scale analysis and voting processes'
 Please don't forget to cite us if you use  this code in your work. The bibtex entry is as follows:
